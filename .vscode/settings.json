@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        ".cshtml": "html"
+    },
+    "git.ignoreLimitWarning": true
+}
